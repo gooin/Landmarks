@@ -14,6 +14,7 @@
 		4C2D03662697422F00AADC67 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2D03652697422F00AADC67 /* CircleImage.swift */; };
 		4C2D0368269743E000AADC67 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2D0367269743E000AADC67 /* MapView.swift */; };
 		D61A48BC9C85581B129D9881 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D61A419D81CFDA4362FCE9A8 /* .gitignore */; };
+		D61A4CB1AF352BBDC4FA10EF /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D61A4FAABC7E0F04FB2D2FA6 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4C2D03652697422F00AADC67 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		4C2D0367269743E000AADC67 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		D61A419D81CFDA4362FCE9A8 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
+		D61A4FAABC7E0F04FB2D2FA6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,7 @@
 				4C2D03552697371B00AADC67 /* Landmarks */,
 				4C2D03542697371B00AADC67 /* Products */,
 				D61A419D81CFDA4362FCE9A8 /* .gitignore */,
+				D61A4FAABC7E0F04FB2D2FA6 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -152,6 +155,7 @@
 				4C2D0368269743E000AADC67 /* MapView.swift in Sources */,
 				4C2D03572697371B00AADC67 /* LandmarksApp.swift in Sources */,
 				4C2D03662697422F00AADC67 /* CircleImage.swift in Sources */,
+				D61A4CB1AF352BBDC4FA10EF /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
