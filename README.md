@@ -21,7 +21,7 @@ Based on Apple's  [SwiftUI Essentials](https://developer.apple.com/tutorials/swi
 ![](https://cdn.jsdelivr.net/gh/crexk/pic-archive@main/uPic/20210709_j9TBVX.jpeg)
 
 
-### v0.0.3 at 2020-07-08
+### v0.0.3 at 2020-07-10
 feat: add user interaction. User can mark landmark as the favorite. In the landmark list page, add the button to filter the favorite or not.
 
 [Building Lists and Navigation]([Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
