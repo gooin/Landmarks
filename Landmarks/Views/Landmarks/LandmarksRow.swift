@@ -12,22 +12,29 @@ struct LandmarksRow: View {
     
     var body: some View {
         HStack {
-            landmark.image.resizable().frame(width: /*@START_MENU_TOKEN@*/100/*@END_MENU_TOKEN@*/, height: 100)
+            landmark.image.resizable().frame(width: 50, height: 50)
             
             Text(landmark.name)
             
             Spacer()
+            
+            if landmark.isFavorite{
+                Image(systemName: "star.fill")
+                    .foregroundColor(.yellow)
+            }
         }
        
     }
 }
 
 struct LandmarksRow_Previews: PreviewProvider {
+    static var landmarks = ModelData().landmarks
+
     static var previews: some View {
 //        LandmarksRow(landmark: landmarks[0])
         Group {
+            LandmarksRow(landmark: landmarks[0])
             LandmarksRow(landmark: landmarks[1])
-            LandmarksRow(landmark: landmarks[2])
         }
         .previewLayout(.fixed(width: 300, height: 70))
     }
