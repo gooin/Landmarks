@@ -24,8 +24,15 @@ Based on Apple's  [SwiftUI Essentials](https://developer.apple.com/tutorials/swi
 ### v0.0.3 at 2020-07-10
 feat: add user interaction. User can mark landmark as the favorite. In the landmark list page, add the button to filter the favorite or not.
 
-[Building Lists and Navigation]([Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
+[Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
 
 ![](https://cdn.jsdelivr.net/gh/crexk/pic-archive@main/uPic/20210710_E88tKh.png)
 ![](https://cdn.jsdelivr.net/gh/crexk/pic-archive@main/uPic/20210710_6rEQqQ.png)
 
+### v0.0.4 at 2020-07-14
+
+learn to draw shapes and paths.
+
+[Drawing Paths and Shapes](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)
+
+![20210714_RjaZ4J](https://cdn.jsdelivr.net/gh/crexk/pic-archive@main/uPic/20210714_RjaZ4J.png)
